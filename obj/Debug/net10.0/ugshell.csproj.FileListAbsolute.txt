@@ -1,0 +1,17 @@
+C:\Users\daver\git\ugshell\bin\Debug\net10.0\ugshell.exe
+C:\Users\daver\git\ugshell\bin\Debug\net10.0\ugshell.deps.json
+C:\Users\daver\git\ugshell\bin\Debug\net10.0\ugshell.runtimeconfig.json
+C:\Users\daver\git\ugshell\bin\Debug\net10.0\ugshell.dll
+C:\Users\daver\git\ugshell\bin\Debug\net10.0\ugshell.pdb
+C:\Users\daver\git\ugshell\obj\Debug\net10.0\ugshell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daver\git\ugshell\obj\Debug\net10.0\ugshell.AssemblyInfoInputs.cache
+C:\Users\daver\git\ugshell\obj\Debug\net10.0\ugshell.AssemblyInfo.cs
+C:\Users\daver\git\ugshell\obj\Debug\net10.0\ugshell.csproj.CoreCompileInputs.cache
+C:\Users\daver\git\ugshell\obj\Debug\net10.0\ugshell.dll
+C:\Users\daver\git\ugshell\obj\Debug\net10.0\refint\ugshell.dll
+C:\Users\daver\git\ugshell\obj\Debug\net10.0\ugshell.pdb
+C:\Users\daver\git\ugshell\obj\Debug\net10.0\ugshell.genruntimeconfig.cache
+C:\Users\daver\git\ugshell\obj\Debug\net10.0\ref\ugshell.dll
+C:\Users\daver\git\ugshell\bin\Debug\net10.0\CommandLine.dll
+C:\Users\daver\git\ugshell\obj\Debug\net10.0\ugshell.csproj.AssemblyReference.cache
+C:\Users\daver\git\ugshell\obj\Debug\net10.0\ugshell.csproj.Up2Date
