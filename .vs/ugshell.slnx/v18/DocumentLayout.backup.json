@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{C3E3774B-0D1E-43E2-6136-258520AB377A}|ugshell.csproj|solutionrelative:tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C3E3774B-0D1E-43E2-6136-258520AB377A}|ugshell.csproj|c:\\users\\daver\\git\\ugshell\\shellexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E3774B-0D1E-43E2-6136-258520AB377A}|ugshell.csproj|solutionrelative:shellexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C3E3774B-0D1E-43E2-6136-258520AB377A}|ugshell.csproj|c:\\users\\daver\\git\\ugshell\\ugshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3E3774B-0D1E-43E2-6136-258520AB377A}|ugshell.csproj|solutionrelative:ugshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E3774B-0D1E-43E2-6136-258520AB377A}|ugshell.csproj|c:\\users\\daver\\git\\ugshell\\tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E3774B-0D1E-43E2-6136-258520AB377A}|ugshell.csproj|solutionrelative:tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +26,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TCPClient.cs",
+              "DocumentMoniker": "C:\\Users\\daver\\git\\ugshell\\TCPClient.cs",
+              "RelativeDocumentMoniker": "TCPClient.cs",
+              "ToolTip": "C:\\Users\\daver\\git\\ugshell\\TCPClient.cs",
+              "RelativeToolTip": "TCPClient.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T19:19:29.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShellExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\daver\\git\\ugshell\\ShellExecutor.cs",
+              "RelativeDocumentMoniker": "ShellExecutor.cs",
+              "ToolTip": "C:\\Users\\daver\\git\\ugshell\\ShellExecutor.cs",
+              "RelativeToolTip": "ShellExecutor.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAApwDwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T19:11:39.809Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,20 +61,20 @@
               "RelativeDocumentMoniker": "TCPServer.cs",
               "ToolTip": "C:\\Users\\daver\\git\\ugshell\\TCPServer.cs",
               "RelativeToolTip": "TCPServer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAgwH0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T13:21:00.963Z",
+              "WhenOpened": "2026-03-06T17:12:35.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UGShell.cs",
               "DocumentMoniker": "C:\\Users\\daver\\git\\ugshell\\UGShell.cs",
               "RelativeDocumentMoniker": "UGShell.cs",
               "ToolTip": "C:\\Users\\daver\\git\\ugshell\\UGShell.cs",
               "RelativeToolTip": "UGShell.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAQwD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T13:19:15.959Z",
               "EditorCaption": ""

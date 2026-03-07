@@ -15,3 +15,4 @@ C:\Users\daver\git\ugshell\obj\Debug\net10.0\ref\ugshell.dll
 C:\Users\daver\git\ugshell\bin\Debug\net10.0\CommandLine.dll
 C:\Users\daver\git\ugshell\obj\Debug\net10.0\ugshell.csproj.AssemblyReference.cache
 C:\Users\daver\git\ugshell\obj\Debug\net10.0\ugshell.csproj.Up2Date
+C:\Users\daver\git\ugshell\obj\Debug\net10.0\ugshell.sourcelink.json
