@@ -23,4 +23,4 @@ The primary goal of this repository is to illustrate:
 1. **Download as ZIP:** Click the green **Code** button at the top of this page and select **Download ZIP**. Extract the files to a folder on your computer.
 2. **Clone (Git):** Alternatively, run this in your terminal:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/davyrob-clg/ugshell.git
